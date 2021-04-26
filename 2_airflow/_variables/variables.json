@@ -1,0 +1,11 @@
+{
+    "housing_epc_rating": {
+        "bucket_name_output": "ucl-msin0166-2021-london-housing-epc",
+        "bucket_name_s3": "cl-msin0166-2021-mwaa",
+        "db_name": "postgres_individual_DA",
+        "key1": "output/housing_scraper_zoopla",
+        "key2": "output/housing_scraper_dexter",
+        "key3": "output/housing_scraper_airquality",
+        "s3_key": "dags/housing_epc_rating"
+    }
+}
