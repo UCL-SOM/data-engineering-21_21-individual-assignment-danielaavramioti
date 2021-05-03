@@ -1,0 +1,14 @@
+ad_id,street_name,price,address,bedrooms,bathrooms,reception,link,subway_station,distance,efficient,average_epc_C,average_epc_D,tube_line_Central,tube_line_Circle,tube_line_DLR,tube_line_District,tube_line_Jubilee,tube_line_Piccadilly
+151907,Lancaster Gate,23000000.0,"Hyde Park, W2",60,0,1,https://www.dexters.co.uk/property-for-sale/property-for-sale-in-lancaster-gate-london-w2/151907,Lancaster Gate,0.26,0,1,0,1,0,0,0,0,0
+124656,Wilton Crescent,19500000.0,"Wilton Crescent, SW1X",5,5,2,https://www.dexters.co.uk/property-for-sale/house-for-sale-in-wilton-crescent-london-sw1x/124656,Knightsbridge,0.22,0,0,1,0,0,0,0,0,1
+143179,Old Queen Street,9250000.0,"Westminster, SW1H",5,4,6,https://www.dexters.co.uk/property-for-sale/house-for-sale-in-old-queen-street-london-sw1h/143179,St.James's Park,0.16,0,1,0,0,1,0,0,0,0
+138689,Queen Street,6000000.0,"Mayfair, W1J",3,3,2,https://www.dexters.co.uk/property-for-sale/flat-for-sale-in-queen-street-london-w1j/138689,Green Park,0.18,0,1,0,0,0,0,0,1,0
+138689,Queen Street,6000000.0,"Mayfair, W1J",3,3,2,https://www.dexters.co.uk/property-for-sale/flat-for-sale-in-queen-street-london-w1j/138689,Green Park,0.18,0,1,0,0,0,0,0,1,0
+138690,Queen Street,6000000.0,"Mayfair, W1J",3,3,1,https://www.dexters.co.uk/property-for-sale/flat-for-sale-in-queen-street-london-w1j/138690,East India,0.17,0,1,0,0,0,1,0,0,0
+138690,Queen Street,6000000.0,"Mayfair, W1J",3,3,1,https://www.dexters.co.uk/property-for-sale/flat-for-sale-in-queen-street-london-w1j/138690,East India,0.17,0,1,0,0,0,1,0,0,0
+159717,Ladbroke Road,5500000.0,"Notting Hill, W11",5,4,2,https://www.dexters.co.uk/property-for-sale/property-for-sale-in-ladbroke-road-london-w11/159717,Notting Hill Gate,0.14,0,0,1,1,0,0,0,0,0
+156629,Fairhazel Gardens,5495000.0,"South Hampstead, NW6",5,5,3,https://www.dexters.co.uk/property-for-sale/property-for-sale-in-fairhazel-gardens-london-nw6/156629,Finchley Road,0.19,0,0,1,0,0,0,0,1,0
+157041,Kings Road,5000000.0,"Richmond, TW10",8,3,3,https://www.dexters.co.uk/property-for-sale/property-for-sale-in-kings-road-richmond-tw10/157041,Richmond,0.41,0,0,1,0,0,0,1,0,0
+159188,Philbeach Gardens,5000000.0,"Earls Court, SW5",7,3,3,https://www.dexters.co.uk/property-for-sale/house-for-sale-in-philbeach-gardens-london-sw5/159188,Earl's Court,0.27,0,0,1,0,0,0,1,0,0
+151165,Green Street,4950000.0,"Mayfair, W1K",3,3,2,https://www.dexters.co.uk/property-for-sale/flat-for-sale-in-green-street-london-w1k/151165,Marble Arch,0.1,0,0,1,1,0,0,0,0,0
+84720,Copse Hill,4650000.0,"Wimbledon, SW20",5,4,5,https://www.dexters.co.uk/property-for-sale/property-for-sale-in-copse-hill-london-sw20/84720,Wimbledon,1.24,0,1,0,0,0,0,1,0,0
